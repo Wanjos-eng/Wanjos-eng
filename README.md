@@ -18,14 +18,31 @@ Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você
 ### Minha paixão por sustentabilidade
 Meu interesse em **sustentabilidade** me levou a experimentar com **Arduino**, buscando soluções tecnológicas para um futuro mais sustentável.
 
-### Minhas Ferramentas e Tecnologias
-- **JavaScript** e **Node.js**: Criando APIs poderosas.
-- **Angular** e **TypeScript**: Transformando ideias em realidade.
-- **SQL** e **Python**: Analisando dados para descobrir insights valiosos.
-- **Flutter** e **Dart**: Desenvolvendo aplicativos móveis com fluidez.
-
 ### A Fundação: C
 A linguagem **C** é a base do meu conhecimento técnico, proporcionando-me uma compreensão profunda do funcionamento interno dos sistemas.
+
+## Minhas Habilidades e Conhecimentos
+
+### Linguagens de Programação e Tecnologias
+```plaintext
+JavaScript | ██████████ | 90%
+Node.js    | ████████░░ | 80%
+Angular    | ████████░░ | 80%
+TypeScript | ███████░░░ | 70%
+SQL        | ███████░░░ | 70%
+Python     | ██████░░░░ | 60%
+Flutter    | ██████░░░░ | 60%
+Dart       | █████░░░░░ | 50%
+C          | █████████░ | 90%
+!JavaScript
+!Node.js
+!Angular
+!TypeScript
+!SQL
+!Python
+!Flutter
+!Dart
+!C
 
 ---
 
