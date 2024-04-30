@@ -23,8 +23,8 @@ A linguagem **C** é a base do meu conhecimento técnico, proporcionando-me uma 
 
 ## 🛠️ Habilidades Técnicas
 
-| Habilidade      | Proficiência   | 
-| --------------- | -------------- | 
+| Habilidade      | Proficiência   |
+|:---------------:|:--------------:|
 | JavaScript      | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 |
 | Node.js         | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 |
 | Angular         | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 |
@@ -34,6 +34,7 @@ A linguagem **C** é a base do meu conhecimento técnico, proporcionando-me uma 
 | Flutter         | 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨 |
 | Dart            | 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨 |
 | C               | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 |
+
 
 ## 👨‍💻 Ícones de Habilidades
 
