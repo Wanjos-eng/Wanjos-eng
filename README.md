@@ -23,26 +23,32 @@ A linguagem **C** é a base do meu conhecimento técnico, proporcionando-me uma 
 
 ## Minhas Habilidades e Conhecimentos
 
-### Linguagens de Programação e Tecnologias
-```plaintext
-JavaScript | ██████████ | 90%
-Node.js    | ████████░░ | 80%
-Angular    | ████████░░ | 80%
-TypeScript | ███████░░░ | 70%
-SQL        | ███████░░░ | 70%
-Python     | ██████░░░░ | 60%
-Flutter    | ██████░░░░ | 60%
-Dart       | █████░░░░░ | 50%
-C          | █████████░ | 90%
-!JavaScript
-!Node.js
-!Angular
-!TypeScript
-!SQL
-!Python
-!Flutter
-!Dart
-!C
+## Minhas Habilidades e Conhecimentos
+
+| Habilidade      | Proficiência |
+|-----------------|--------------|
+| JavaScript      | !90% |
+| Node.js         | !80% |
+| Angular         | !80% |
+| TypeScript      | !70% |
+| SQL             | !70% |
+| Python          | !60% |
+| Flutter         | !60% |
+| Dart            | !50% |
+| C               | !90% |
+
+### Ícones de Habilidades
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+</p>
 
 ---
 
