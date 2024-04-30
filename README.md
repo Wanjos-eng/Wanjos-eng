@@ -37,7 +37,7 @@ A linguagem **C** é a base do meu conhecimento técnico, proporcionando-me uma 
 
 ## 👨‍💻 Ícones de Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,angular,typescript,sql,python,flutter,dart,c,react,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,angular,typescript,postgreesql,python,flutter,dart,c,react,threejs)](https://skillicons.dev)
 !JavaScript
 !Node.js
 !Angular
