@@ -11,10 +11,6 @@ Atualmente, estou focado em **Angular** e **Laravel**, buscando a excelência em
 ### Colaboração e Aprendizado
 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você tem insights sobre algo inovador ou que vai complementar todo meu aprendizado, adoraria conectar-me e aprender mais.
 
-### Vamos nos conectar!
-- LinkedIn: [Weslen Anjos](https://www.linkedin.com/in/weslen-anjos/)
-- E-mail: weslen_anjos@outlook.com
-
 ### Minha paixão por sustentabilidade
 Meu interesse em **sustentabilidade** me levou a experimentar com **Arduino**, buscando soluções tecnológicas para um futuro mais sustentável.
 
@@ -42,5 +38,16 @@ A linguagem **C** é a base do meu conhecimento técnico, proporcionando-me uma 
 
 ---
 
-Se você está procurando um desenvolvedor dedicado e meticuloso para adicionar valor ao seu projeto, sinta-se à vontade para entrar em contato. Estou ansioso para colaborar e criar algo incrível juntos.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanjos-eng&theme=shadow_green&show_icons=true)
+
+---
+ 
+<div> 
+  <a href="https://www.instagram.com/weslenanj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/anjos_weslen" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Br9jN9kP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "weslen.anjos@discente.univasf.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/weslen-anjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
