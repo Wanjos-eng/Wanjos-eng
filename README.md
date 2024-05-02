@@ -3,16 +3,13 @@
 Bem-vindo ao meu espaço no GitHub, onde a tecnologia e a inovação se encontram para criar algo especial.
 
 ## Sobre mim
-Sou um estudante de Engenharia da Computação e estagiário na **smartID**, onde aprimoro minhas habilidades em desenvolvimento full-stack. Com um foco especial no front-end, estou explorando as profundezas da biblioteca **ThreeJS** para criar experiências visuais imersivas.
+Sou um estudante de Engenharia da Computação e estagiário na **smartID**, onde aprimoro minhas habilidades em desenvolvimento full-stack.
 
 ### Minha Jornada
-Atualmente, estou focado em **Angular** e **Laravel**, buscando a excelência em cada linha de código. Acredito que a atenção aos detalhes faz toda a diferença em um projeto bem-sucedido.
+Atualmente, estou focado em nas ferramentas **Angular** e **Laravel**, buscando a excelência em cada linha de código. Acredito que a atenção aos detalhes faz toda a diferença em um projeto bem-sucedido.
 
 ### Colaboração e Aprendizado
 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você tem insights sobre algo inovador ou que vai complementar todo meu aprendizado, adoraria conectar-me e aprender mais.
-
-### Minha paixão por sustentabilidade
-Meu interesse em **sustentabilidade** me levou a experimentar com **Arduino**, buscando soluções tecnológicas para um futuro mais sustentável.
 
 ### A Fundação: C
 A linguagem **C** é a base do meu conhecimento técnico, proporcionando-me uma compreensão profunda do funcionamento interno dos sistemas.
