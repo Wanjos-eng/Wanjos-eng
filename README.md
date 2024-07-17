@@ -8,23 +8,7 @@ Sou um estudante de Engenharia da Computação e estagiário na **smartID**, ond
 ### Minha Jornada
 Atualmente, estou focado nos frameworks front-end **Angular** e back-end **Node.js** com JavaScript, buscando a excelência em cada linha de código. Acredito que a atenção aos detalhes faz toda a diferença em um projeto bem-sucedido.
 
-### A Fundação: C
-A linguagem **C** é a base do meu conhecimento técnico, proporcionando-me uma compreensão profunda do funcionamento interno dos sistemas.
-
 ## 🛠️ Habilidades Técnicas
-
-| Habilidade      | Proficiência   |
-|:---------------:|:--------------:|
-| JavaScript      | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 |
-| Node.js         | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 |
-| Angular         | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 |
-| TypeScript      | 🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨 |
-| SQL             | 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨 |
-| Python          | 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 |
-| Flutter         | 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨 |
-| Dart            | 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨 |
-| C               | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 |
-
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,angular,typescript,postgres,py,flutter,dart,c,react,threejs)](https://skillicons.dev)
