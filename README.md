@@ -57,7 +57,7 @@ Bem-vindo ao meu espaço no GitHub, onde a tecnologia e as minhas ideias se enco
 
 <br clear="both">
 
-<img src="https://github.com/Wanjos-eng/Wanjos-eng/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 ###
 
