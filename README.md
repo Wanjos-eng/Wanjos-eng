@@ -55,12 +55,6 @@ Bem-vindo ao meu espaço no GitHub, onde a tecnologia e as minhas ideias se enco
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/weslenanj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/anjos_weslen" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
