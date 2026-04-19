@@ -34,21 +34,21 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=Sua-Barbearia-backend&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="Sua-Barbearia-backend"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=Sua-Barbearia-backend&theme=dark&hide_border=true&show_icons=false&bg_color=00000000" alt="Sua-Barbearia-backend"/>
       <br/><sub><b>Sua-Barbearia</b> - Arquitetura Corporativa com Spring & Java</sub>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=API-CalculoNumerico&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="API-CalculoNumerico"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=API-CalculoNumerico&theme=dark&hide_border=true&show_icons=false&bg_color=00000000" alt="API-CalculoNumerico"/>
       <br/><sub><b>API Calculo Numerico</b> - Numeric Methods & Computational Logic</sub>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=logic-forge&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="Logic-Forge"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=logic-forge&theme=dark&hide_border=true&show_icons=false&bg_color=00000000" alt="Logic-Forge"/>
       <br/><sub><b>Logic-Forge</b> - Rust & Algorithmic Logic Foundation</sub>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=rust-paris-transit-a-star&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="rust-paris-transit-a-star"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=rust-paris-transit-a-star&theme=dark&hide_border=true&show_icons=false&bg_color=00000000" alt="rust-paris-transit-a-star"/>
       <br/><sub><b>A-Star Algorithm</b> - Pure Search Algorithms in Rust</sub>
     </td>
   </tr>
@@ -67,11 +67,19 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0D1117/Wanjos-eng" alt="Contribution Heatmap" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wanjos-eng&theme=dark&hide_border=true&show_icons=true&bg_color=00000000&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wanjos-eng&theme=transparent" alt="Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanjos-eng&theme=dark&hide_border=true&layout=compact&bg_color=00000000&count_private=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/1F6FEB/Wanjos-eng" alt="Contribution Heatmap" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wanjos-eng&theme=dark" alt="Profile Summary"/>
 </p>
 
 <br/>
