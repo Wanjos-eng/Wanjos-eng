@@ -26,6 +26,7 @@
 ---
 
 <!-- Bloco 3: Showcase de Engenharia - Cards Dinâmicos -->
+<!-- PROJECTS_SECTION -->
 <p align="center">
   <h2>Engineering Showcase</h2>
 </p>
@@ -33,18 +34,18 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=scassys&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="Scassys"/>
-      <br/><sub><b>Scassys</b> - Domain Modeling em Go</sub>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=Sua-Barbearia-backend&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="Sua-Barbearia-backend"/>
+      <br/><sub><b>Sua-Barbearia</b> - Arquitetura Corporativa com Spring & Java</sub>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=logic-forge&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="Logic-Forge"/>
-      <br/><sub><b>Logic-Forge</b> - Rust & Algorithmic Logic</sub>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=API-CalculoNumerico&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="API-CalculoNumerico"/>
+      <br/><sub><b>API Calculo Numerico</b> - Numeric Methods & Computational Logic</sub>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=qualityfruit&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="QualityFruit"/>
-      <br/><sub><b>QualityFruit</b> - Offline-First Architecture com SQLite</sub>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=logic-forge&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="Logic-Forge"/>
+      <br/><sub><b>Logic-Forge</b> - Rust & Algorithmic Logic Foundation</sub>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=rust-paris-transit-a-star&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="rust-paris-transit-a-star"/>
@@ -57,17 +58,20 @@
 
 ---
 
+<!-- Atividade Recente - Automatizado via GitHub Actions -->
+<!-- ACTIVITY_SECTION -->
+
 <!-- Bloco 4: Dashboard Analítico - Métrica Visual -->
 <p align="center">
   <h2>Technical Metrics</h2>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wanjos-eng&theme=transparent" alt="Profile Summary"/>
+  <img src="https://ghchart.rshah.org/0D1117/Wanjos-eng" alt="Contribution Heatmap" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanjos-eng&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_title=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wanjos-eng&theme=transparent" alt="Profile Summary"/>
 </p>
 
 <br/>
@@ -91,19 +95,8 @@
 
 ---
 
-<!-- Technical Writing Section (Preparado para automação futura) -->
-<!-- 
-## 📝 Technical Writing
-
-*Esta seção será automatizada via GitHub Actions para mostrar seus últimos artigos*
-
-- [Como apliquei Clean Architecture em projetos reais](#)
-- [Desafios de performance usando A-Star em Rust](#)
-- [Domain Modeling com Go: Lições aprendidas](#)
--->
-
----
-
+<!-- Technical Writing Section (Automatizado via GitHub Actions) -->
+<!-- ARTICLES_SECTION -->
 <p align="center">
   <sub>Engineered with precision by <strong>Weslen Anjos</strong></sub>
 </p>
