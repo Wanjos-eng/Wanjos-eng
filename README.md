@@ -26,6 +26,7 @@
 ---
 
 <!-- Bloco 3: Showcase de Engenharia - Cards Dinâmicos -->
+<!-- PROJECTS_SECTION -->
 <p align="center">
   <h2>Engineering Showcase</h2>
 </p>
@@ -56,6 +57,9 @@
 <br/>
 
 ---
+
+<!-- Atividade Recente - Automatizado via GitHub Actions -->
+<!-- ACTIVITY_SECTION -->
 
 <!-- Bloco 4: Dashboard Analítico - Métrica Visual -->
 <p align="center">
@@ -91,19 +95,8 @@
 
 ---
 
-<!-- Technical Writing Section (Preparado para automação futura) -->
-<!-- 
-## 📝 Technical Writing
-
-*Esta seção será automatizada via GitHub Actions para mostrar seus últimos artigos*
-
-- [Como apliquei Clean Architecture em projetos reais](#)
-- [Desafios de performance usando A-Star em Rust](#)
-- [Domain Modeling com Go: Lições aprendidas](#)
--->
-
----
-
+<!-- Technical Writing Section (Automatizado via GitHub Actions) -->
+<!-- ARTICLES_SECTION -->
 <p align="center">
   <sub>Engineered with precision by <strong>Weslen Anjos</strong></sub>
 </p>
