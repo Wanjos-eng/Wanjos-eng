@@ -33,18 +33,18 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=GhostApply&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="GhostApply"/>
-      <br/><sub><b>GhostApply</b> - Domain Modeling & System Design em Go</sub>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=Sua-Barbearia-backend&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="Sua-Barbearia-backend"/>
+      <br/><sub><b>Sua-Barbearia</b> - Arquitetura Corporativa com Spring & Java</sub>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=logic-forge&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="Logic-Forge"/>
-      <br/><sub><b>Logic-Forge</b> - Rust & Algorithmic Logic Foundation</sub>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=API-CalculoNumerico&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="API-CalculoNumerico"/>
+      <br/><sub><b>API Calculo Numerico</b> - Numeric Methods & Computational Logic</sub>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=Sua-Barbearia-backend&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="Sua-Barbearia-backend"/>
-      <br/><sub><b>Sua-Barbearia</b> - Arquitetura Corporativa com Spring & Java</sub>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=logic-forge&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="Logic-Forge"/>
+      <br/><sub><b>Logic-Forge</b> - Rust & Algorithmic Logic Foundation</sub>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanjos-eng&repo=rust-paris-transit-a-star&theme=transparent&hide_border=true&show_icons=false&bg_color=00000000" alt="rust-paris-transit-a-star"/>
