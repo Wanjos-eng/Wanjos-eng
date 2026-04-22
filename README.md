@@ -5,9 +5,12 @@
 
 ---
 
+<!--
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wanjos-eng&theme=dark&hide_border=true&show_icons=true&bg_color=00000000&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
+-->
+<p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Wanjos-eng&theme=dark&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </p>
 
